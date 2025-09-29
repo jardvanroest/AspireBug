@@ -69,3 +69,4 @@ C:\Users\JardvanRoest\source\repos\AspireApp1\AspireApp1.ApiService\obj\Debug\ne
 C:\Users\JardvanRoest\source\repos\AspireApp1\AspireApp1.ApiService\obj\Debug\net8.0\AspireApp1.ApiService.pdb
 C:\Users\JardvanRoest\source\repos\AspireApp1\AspireApp1.ApiService\obj\Debug\net8.0\AspireApp1.ApiService.genruntimeconfig.cache
 C:\Users\JardvanRoest\source\repos\AspireApp1\AspireApp1.ApiService\obj\Debug\net8.0\ref\AspireApp1.ApiService.dll
+C:\Users\JardvanRoest\source\repos\AspireApp1\AspireApp1.ApiService\obj\Debug\net8.0\AspireApp1.ApiService.sourcelink.json

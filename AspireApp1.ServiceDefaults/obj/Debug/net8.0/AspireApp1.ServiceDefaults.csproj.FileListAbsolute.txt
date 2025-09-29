@@ -10,3 +10,4 @@ C:\Users\JardvanRoest\source\repos\AspireApp1\AspireApp1.ServiceDefaults\obj\Deb
 C:\Users\JardvanRoest\source\repos\AspireApp1\AspireApp1.ServiceDefaults\obj\Debug\net8.0\refint\AspireApp1.ServiceDefaults.dll
 C:\Users\JardvanRoest\source\repos\AspireApp1\AspireApp1.ServiceDefaults\obj\Debug\net8.0\AspireApp1.ServiceDefaults.pdb
 C:\Users\JardvanRoest\source\repos\AspireApp1\AspireApp1.ServiceDefaults\obj\Debug\net8.0\ref\AspireApp1.ServiceDefaults.dll
+C:\Users\JardvanRoest\source\repos\AspireApp1\AspireApp1.ServiceDefaults\obj\Debug\net8.0\AspireApp1.ServiceDefaults.sourcelink.json
